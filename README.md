@@ -32,11 +32,13 @@ Once the upload part works, I will deploy this application on a digital ocean dr
 There is an issue with the parameters (screenshot attached) I am passing to talk to the S3 bucket, which gives a status code 404.
 
 ## Running Project
-`cd twillio`
-`npm install`
-`cd ..`
-`cd backend`
-`npm install`
-`cd ..`
-`npm install`
-`npm start`
+```
+cd twillio
+npm install
+cd ..
+cd backend
+npm install
+cd ..
+npm install
+npm start
+```
